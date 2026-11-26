@@ -18,4 +18,4 @@
 </p>
 
 ## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/FarisAbrar29/output/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/FarisAbrar29/FarisAbrar29/output/github-snake-dark.svg" />
